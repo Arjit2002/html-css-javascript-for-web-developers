@@ -7,4 +7,4 @@
     else
       helloSpeaker(names[i]);
   }
-}) ();
+})();
